@@ -8,7 +8,7 @@ Frontend Developer
 * ✉️  You can contact me at [https://t.me/qu1sty](mailto:https://t.me/qu1sty)
 * 🧠  I'm learning coding
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I am a frontend developer, studying in college. I enjoy solving complex and interesting tasks. I strive for continuous improvement of my skills and learning new things. In addition to development, I practice kickboxing, lead an active lifestyle, read books, and develop myself in all areas.
+* ⚡  Frontend developer with 2+ years of commercial experience. I specialize in both creating and maintaining products of any complexity. I am ready for difficult tasks and always strive to constantly improve my skills and learn new things.
 
 ### Skills
 
