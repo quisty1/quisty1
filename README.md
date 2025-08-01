@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Frontend developer with 2+ years of commercial experience. I specialize in both creating and maintaining products of any complexity. I am ready for difficult tasks and always strive to constantly improve my skills and learn new things.
+Frontend developer with 3+ years of commercial experience. I specialize in both creating and maintaining products of any complexity. I am ready for difficult tasks and always strive to constantly improve my skills and learn new things.
 
 * 🌍  I'm based in Russia, Moscow
-* ✉️  You can contact me at [https://t.me/qu1sty](mailto:https://t.me/qu1sty)
+* ✉️  You can contact me at [https://t.me/qu1sty](mailto:https://t.me/yar_bragin)
 * 🧠  I'm learning coding
 * 🤝  I'm open to collaborating on interesting projects
 
