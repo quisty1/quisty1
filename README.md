@@ -8,7 +8,6 @@ Frontend developer with 3+ years of commercial experience. I specialize in both 
 
 * 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [https://t.me/qu1sty](mailto:https://t.me/yar_bragin)
-* 🧠  I'm learning coding
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
