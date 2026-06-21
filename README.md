@@ -67,35 +67,8 @@ Currently developing internal digital products at the Moscow Center for Educatio
 
 ---
 
-## 🌟 Featured Projects
-
-### Garages
-
-A landing page project focused on modern frontend development practices and SEO optimization.
-
-🔗 https://quisty1.github.io/garages/
-
-### More Projects
-
-Check my repositories below 👇
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quisty1\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quisty1\&layout=compact)
-
----
-
 ## 📫 Contact Me
 
-* Telegram: @yar_bragin
+* Telegram: [@yar_bragin](https://t.me/yar_bragin)
 * Email: [braginyaroslav1@gmail.com](mailto:braginyaroslav1@gmail.com)
-* GitHub: https://github.com/quisty1
 * VK: https://vk.com/yar1qqq
-
----
-
-⭐ Feel free to check out my repositories and connect with me.
