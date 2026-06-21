@@ -1,18 +1,101 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bragin Yaroslav
-=======================================================================================================================================
+# Hi there, I'm Yaroslav 👋
 
-Frontend Developer
-------------------
+Frontend Developer with 3+ years of commercial experience building enterprise and B2B applications using Vue.js ecosystem.
 
-Frontend developer with 3+ years of commercial experience. I specialize in both creating and maintaining products of any complexity. I am ready for difficult tasks and always strive to constantly improve my skills and learn new things.
+Currently developing internal digital products at the Moscow Center for Education Digitalization, focusing on large-scale administrative systems, real-time monitoring dashboards, RBAC authorization, and complex data management interfaces.
 
-* 🌍  I'm based in Russia, Moscow
-* ✉️  You can contact me at [https://t.me/qu1sty](mailto:https://t.me/yar_bragin)
-* 🤝  I'm open to collaborating on interesting projects
+---
 
-### Skills
+## 🚀 About Me
 
+* 💼 Frontend Developer (Vue.js)
+* 🏢 Currently working at GAU Moscow Center for Education Digitalization
+* 🎓 Applied Informatics student
+* 🌍 Open to relocation and remote opportunities
+* 📚 Constantly learning and improving engineering skills
+* 🛠 Interested in frontend architecture, performance optimization, and developer experience
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-</p>
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867c0?style=for-the-badge\&logo=vuetify\&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-ffd859?style=for-the-badge)
+![Vue Router](https://img.shields.io/badge/Vue_Router-4fc08d?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge\&logo=vite\&logoColor=white)
+
+### Styling
+
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge\&logo=css3\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-cc6699?style=for-the-badge\&logo=sass\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5a29e4?style=for-the-badge)
+![Webpack](https://img.shields.io/badge/Webpack-8dd6f9?style=for-the-badge\&logo=webpack\&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4b32c3?style=for-the-badge\&logo=eslint\&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-f7b93e?style=for-the-badge\&logo=prettier\&logoColor=black)
+
+---
+
+## 💼 Professional Highlights
+
+### Moscow Center for Education Digitalization (2025 — Present)
+
+* Developed enterprise Vue 3 applications with 15+ administrative modules
+* Built real-time monitoring systems using WebSocket, SSE and HTTP polling
+* Designed RBAC authorization architecture with feature-based access control
+* Created reusable UI component libraries
+* Developed Markdown editor with Mermaid support and syntax highlighting
+* Refactored legacy codebases into scalable Composition API architecture
+
+### ElRos (2023 — 2025)
+
+* Developed B2B/B2C tourism ecosystem applications
+* Migrated projects from Vue 2 to Vue 3
+* Migrated JavaScript codebases to TypeScript
+* Built 50+ reusable components
+* Integrated payment systems and third-party APIs
+* Improved performance and maintainability of large frontend applications
+
+---
+
+## 🌟 Featured Projects
+
+### Garages
+
+A landing page project focused on modern frontend development practices and SEO optimization.
+
+🔗 https://quisty1.github.io/garages/
+
+### More Projects
+
+Check my repositories below 👇
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quisty1\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quisty1\&layout=compact)
+
+---
+
+## 📫 Contact Me
+
+* Telegram: @yar_bragin
+* Email: [braginyaroslav1@gmail.com](mailto:braginyaroslav1@gmail.com)
+* GitHub: https://github.com/quisty1
+* VK: https://vk.com/yar1qqq
+
+---
+
+⭐ Feel free to check out my repositories and connect with me.
