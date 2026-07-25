@@ -1,79 +1,68 @@
-# Hi there, I'm Yaroslav ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Yaroslav Bragin
 
-Frontend Developer with 3+ years of commercial experience in the Vue.js ecosystem, building enterprise admin panels and B2B/B2C platforms. Currently architecting large-scale internal systems at the Moscow Center for Education Digitalization.
+### Frontend Developer · Vue.js · TypeScript
 
----
+I build and evolve enterprise SPAs, administrative systems, and customer-facing products with complex business logic. I have 3+ years of commercial experience across the Vue ecosystem, from modernizing legacy applications to designing maintainable frontend architecture.
 
-## 🚀 About Me
+Currently working on internal platforms for the Moscow education system.
 
-* 💼 Frontend Developer (Vue.js) at GAU Moscow Center for Education Digitalization
-* 🏗 Architected 15+ admin modules, real-time monitoring systems, and RBAC authorization layers
-* 🔄 Led migrations: Vue 2 → 3, Vuex → Pinia, Vuetify 3 → 4, JS → TypeScript
-* 🎓 Applied Informatics student at Vladimir State University
-* 🌍 Open to remote and relocation opportunities
-* 📚 Always exploring new tools, AI-assisted dev workflows, and frontend architecture patterns
+[![Telegram](https://img.shields.io/badge/Telegram-@yar__bragin-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yar_bragin)
+[![Email](https://img.shields.io/badge/Email-braginyaroslav1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:braginyaroslav1@gmail.com)
 
----
+## What I work on
 
-## 🛠 Tech Stack
+- Enterprise SPAs and data-heavy administrative interfaces
+- Frontend architecture, reusable UI systems, and typed API layers
+- Real-time features with WebSocket, Server-Sent Events, and HTTP polling
+- Authentication, fine-grained RBAC, route guards, and feature flags
+- Incremental migration of large production applications
 
-### Frontend
-![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867c0?style=for-the-badge&logo=vuetify&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-ffd859?style=for-the-badge)
-![Vuex](https://img.shields.io/badge/Vuex-4fc08d?style=for-the-badge)
-![Vue Router](https://img.shields.io/badge/Vue_Router-4fc08d?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+## Selected impact
 
-### Styling
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-cc6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- Designed a modular Vue 3 application with **15+ administrative modules**
+- Built monitoring across **WebSocket, SSE, and HTTP polling**, reducing issue diagnosis from minutes to seconds
+- Created a reusable library of **15+ components** for tables, forms, autocomplete, JSON, and Markdown workflows
+- Developed an API client for **100+ endpoints** with token refresh, retry, cancellation, and request deduplication
+- Modernized production systems from **Vue 2 to Vue 3**, **Vuex to Pinia**, and **JavaScript to TypeScript**
+- Contributed to a B2B/B2C platform with **40+ business modules** and access control for eight roles
 
-### Tools & Practices
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5a29e4?style=for-the-badge)
-![Webpack](https://img.shields.io/badge/Webpack-8dd6f9?style=for-the-badge\&logo=webpack\&logoColor=black)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4b32c3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-f7b93e?style=for-the-badge&logo=prettier&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+## Core stack
 
----
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt&logoColor=00DC82)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Pinia](https://img.shields.io/badge/Pinia-2C3E50?style=flat-square&logo=pinia&logoColor=FFD859)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-## 💼 Featured Work
+**Architecture and data:** Vue Router, Axios, REST API, RBAC, WebSocket, SSE, Canvas API
 
-### 🏢 Moscow Center for Education Digitalization — *2025 — Present*
+**Quality and delivery:** Git, ESLint, Prettier, Vitest, Jest, Playwright, Cypress, CI/CD, Docker
 
-**Enterprise admin panel for monitoring, integrations & data management**
-- Architected a modular Vue 3 + Pinia + Vue Router application with 15+ admin modules (job-exchange monitoring, user/role management, Redis/RabbitMQ/Kafka integrations)
-- Built a real-time monitoring system with 3 connection modes (WebSocket, SSE, HTTP polling), cutting issue-diagnosis time from minutes to seconds
-- Designed a multi-tier RBAC system: role × feature-flag matrix, recursive route filtering, session-validating guards
-- Built a reusable UI component library (15+ components: paginated/sortable tables, forms, autocomplete, JSON viewer, Markdown editor)
-- Developed a Markdown editor with live preview, syntax highlighting for 8 languages, and Mermaid diagram rendering
-- Built a centralized Axios HTTP layer with interceptors and unified error handling across 96+ API endpoints
+## Experience
 
-**HR registry management system**
-- Built an SPA (Vue 3 + Pinia) with a light/dark theme and persistent user preferences
-- Designed an interactive employee card UI for fast multi-section inline editing
-- Implemented RBAC-based registry filtering, route guards, and conditional rendering by role
-- Migrated the store from Vuex → Pinia and the UI layer from Vuetify 3 → 4 (20+ components adapted)
+**Frontend Developer at Moscow Center for Education Digitalization** · 2025 — Present  
+Building enterprise applications for registries, data exchange, integration monitoring, reporting, and access management.
 
-### 🏢 ElRos — *2023 — 2025*
+**Frontend Developer at ElRos** · 2023 — 2025  
+Developed a B2B/B2C travel platform and a real-time taxi fleet operations system using Vue, Nuxt, TypeScript, REST APIs, and WebSocket.
 
-**B2B/B2C travel platform (customer app + organizer admin panel)**
-- Decomposed monolithic components into 50+ small, reusable modules
-- Migrated a core project from Vue 2 → Vue 3 (Composition API)
-- Migrated multiple modules from JavaScript → TypeScript, reducing runtime errors
-- Integrated payment and geolocation APIs
-- Optimized page-load performance and resolved critical legacy bugs
+## Current focus
 
----
+- Scalable frontend architecture for long-lived products
+- Type-safe application and API design
+- Performance and maintainability of complex Vue applications
+- AI-assisted engineering workflows
 
-## 📫 Get in Touch
+## Education and languages
 
-* Telegram: [@yar_bragin](https://t.me/yar_bragin)
-* Email: [braginyaroslav1@gmail.com](mailto:braginyaroslav1@gmail.com)
-* VK: [vk.com/yar1qqq](https://vk.com/yar1qqq)
+- **Applied Informatics**, Vladimir State University · expected 2029
+- **Network and Systems Administration**, Vladimir Polytechnic College · 2025
+- Russian — native · English — B2
+
+## Contact
+
+- Telegram: [@yar_bragin](https://t.me/yar_bragin)
+- Email: [braginyaroslav1@gmail.com](mailto:braginyaroslav1@gmail.com)
