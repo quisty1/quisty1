@@ -7,7 +7,7 @@
 Tbilisi, Georgia · 3.5+ years of commercial experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaroslav_Bragin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-bragin/)
-[![Telegram](https://img.shields.io/badge/Telegram-@yar__bragin-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yar_bragin)
+[![Telegram](https://img.shields.io/badge/Telegram-@yar__front-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yaroslav_front)
 [![Email](https://img.shields.io/badge/Email-braginyaroslav1%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:braginyaroslav1@gmail.com)
 
 </div>
@@ -90,6 +90,6 @@ February 2023 — February 2025
 
 <div align="center">
 
-Interested in working together? [Connect with me on LinkedIn](https://www.linkedin.com/in/yaroslav-bragin/) or [send me a message](https://t.me/yar_bragin).
+Interested in working together? [Connect with me on LinkedIn](https://www.linkedin.com/in/yaroslav-bragin/) or [send me a message](https://t.me/yaroslav_front).
 
 </div>
